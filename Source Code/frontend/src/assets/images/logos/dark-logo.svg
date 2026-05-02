@@ -1,0 +1,27 @@
+<svg width="174" height="70" viewBox="0 0 174 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="examGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#60A5FA;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#34D399;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Circle Logo -->
+  <circle cx="35" cy="35" r="32" fill="none" stroke="url(#examGrad)" stroke-width="2"/>
+  <circle cx="35" cy="35" r="30" fill="url(#examGrad)" opacity="0.1"/>
+
+  <!-- E Letter in Circle -->
+  <text x="35" y="42" font-family="Arial, sans-serif" font-size="32" font-weight="900" fill="url(#examGrad)" text-anchor="middle">
+    E
+  </text>
+
+  <!-- Examify Text -->
+  <text x="80" y="28" font-family="Arial, sans-serif" font-size="20" font-weight="800" fill="url(#examGrad)" letter-spacing="-0.5">
+    Examify
+  </text>
+
+  <!-- Subtitle -->
+  <text x="80" y="50" font-family="Arial, sans-serif" font-size="10" font-weight="600" fill="#94A3B8" letter-spacing="0.5">
+    SECURE EXAMS
+  </text>
+</svg>
